@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paulo Henrique, but you can call me **PH** or just **Paulo**. I'm a Full Stack developer student, currently learning Javascript and React, 
+My name is Paulo Henrique, but you can call me **PH** or just **Paulo**. I'm a Full Stack developer, currently learning Javascript and React, 
 and looking foward to learn SQL, AWS, TypeScript and other technologies.
 
 ### What I have worked with:

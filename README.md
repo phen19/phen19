@@ -1,9 +1,8 @@
-### Hi there 👋
+### Olá, pessoas 👋
 
-My name is Paulo Henrique, but you can call me **PH** or just **Paulo**. I'm a Full Stack developer, currently learning Javascript and React, 
-and looking foward to learn SQL, AWS, TypeScript and other technologies.
+Meu nome é Paulo Henrique, mas podem me chamar de **PH** ou de **Paulo**. Sou desenvolvedor Full Stack, tendo trabalhado em projetos JavaScript, React, PostgreSQL, TypeScript e entre outras tecnologias.
 
-### What I have worked with:
+### Com o que j:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

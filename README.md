@@ -1,6 +1,6 @@
 ### Olá, pessoas 👋
 
-Meu nome é Paulo Henrique, mas podem me chamar de **PH** ou de **Paulo**. Sou desenvolvedor Full Stack, tendo trabalhado em projetos JavaScript, React, PostgreSQL, TypeScript e entre outras tecnologias.
+Meu nome é Paulo Henrique, mas podem me chamar de **PH** ou de **Paulo**. Sou desenvolvedor Full Stack, tendo trabalhado em projetos utilizando JavaScript, React, PostgreSQL, TypeScript e entre outras tecnologias.
 
 ### Com o que j:
 
